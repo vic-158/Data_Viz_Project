@@ -1,6 +1,6 @@
 # Development Requirements
 
-Use Pandas to clean and format your data set(s)
+* Use Pandas to clean and format your data set(s)
 
 * Create a Jupyter Notebook describing the **data exploration and cleanup** process
 
