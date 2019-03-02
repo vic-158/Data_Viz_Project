@@ -1,0 +1,110 @@
+GEO.id,GEO.id2,GEO.display-label,GEO.annotation.id,NAICS.id,NAICS.display-label,NAICS.annotation.id,OPTAX.id,OPTAX.display-label,YEAR.id,ESTAB,RCPTOT,OPEX,PAYANN,PAYQTR1,EMP,ADMIN_PCT,IMPUT_PCT
+Geographic identifier code,Id2,Geographic area name,Id,2007 NAICS code,Meaning of 2007 NAICS code,Id,Type of operation or tax status code,Meaning of Type of operation or tax status code,Year,Number of establishments,"Receipts/Revenue ($1,000)","Expenses ($1,000)","Annual payroll ($1,000)","First-quarter payroll ($1,000)",Number of paid employees for pay period including March 12,"Sales, receipts, or revenue from administrative records (%)","Sales, receipts, or revenue estimated (%)"
+0100000US,,United States,,61,Educational services,,A,All establishments,2007,61385,44980656,,14259109,3417225,539951,18.7,10.4
+0100000US,,United States,,61,Educational services,,T,Establishments subject to federal income tax,2007,49790,32510659,,10571549,2519056,407504,20.1,11.6
+0100000US,,United States,,61,Educational services,,Y,Establishments exempt from federal income tax,2007,11595,12469997,11658610,3687560,898169,132447,15.2,7.1
+0100000US,,United States,,611,Educational services,,A,All establishments,2007,61385,44980656,,14259109,3417225,539951,18.7,10.4
+0100000US,,United States,,611,Educational services,,T,Establishments subject to federal income tax,2007,49790,32510659,,10571549,2519056,407504,20.1,11.6
+0100000US,,United States,,611,Educational services,,Y,Establishments exempt from federal income tax,2007,11595,12469997,11658610,3687560,898169,132447,15.2,7.1
+0100000US,,United States,,6114,Business schools and computer and management training,,A,All establishments,2007,8350,10037128,,3342682,802768,64987,18.8,8.6
+0100000US,,United States,,6114,Business schools and computer and management training,,T,Establishments subject to federal income tax,2007,7259,8492254,,2886674,689529,54525,18.9,8.7
+0100000US,,United States,,6114,Business schools and computer and management training,,Y,Establishments exempt from federal income tax,2007,1091,1544874,1434093,456008,113239,10462,18.4,7.7
+0100000US,,United States,,61141,Business and secretarial schools,,A,All establishments,2007,377,406790,,150432,36226,5594,12.5,8.6
+0100000US,,United States,,61141,Business and secretarial schools,,T,Establishments subject to federal income tax,2007,340,375530,,137974,33046,5202,11.6,8.0
+0100000US,,United States,,61141,Business and secretarial schools,,Y,Establishments exempt from federal income tax,2007,37,31260,30387,12458,3180,392,23.0,14.7
+0100000US,,United States,,611410,Business and secretarial schools,,A,All establishments,2007,377,406790,,150432,36226,5594,12.5,8.6
+0100000US,,United States,,611410,Business and secretarial schools,,T,Establishments subject to federal income tax,2007,340,375530,,137974,33046,5202,11.6,8.0
+0100000US,,United States,,611410,Business and secretarial schools,,Y,Establishments exempt from federal income tax,2007,37,31260,30387,12458,3180,392,23.0,14.7
+0100000US,,United States,,61142,Computer training,,A,All establishments,2007,2211,2457973,,908576,215575,17407,16.7,9.7
+0100000US,,United States,,61142,Computer training,,T,Establishments subject to federal income tax,2007,2090,2395629,,886056,210241,16706,16.1,9.7
+0100000US,,United States,,61142,Computer training,,Y,Establishments exempt from federal income tax,2007,121,62344,57842,22520,5334,701,39.6,8.8
+0100000US,,United States,,611420,Computer training,,A,All establishments,2007,2211,2457973,,908576,215575,17407,16.7,9.7
+0100000US,,United States,,611420,Computer training,,T,Establishments subject to federal income tax,2007,2090,2395629,,886056,210241,16706,16.1,9.7
+0100000US,,United States,,611420,Computer training,,Y,Establishments exempt from federal income tax,2007,121,62344,57842,22520,5334,701,39.6,8.8
+0100000US,,United States,,61143,Professional and management development training,,A,All establishments,2007,5762,7172365,,2283674,550967,41986,19.9,8.2
+0100000US,,United States,,61143,Professional and management development training,,T,Establishments subject to federal income tax,2007,4829,5721095,,1862644,446242,32617,20.6,8.4
+0100000US,,United States,,61143,Professional and management development training,,Y,Establishments exempt from federal income tax,2007,933,1451270,1345864,421030,104725,9369,17.4,7.5
+0100000US,,United States,,611430,Professional and management development training,,A,All establishments,2007,5762,7172365,,2283674,550967,41986,19.9,8.2
+0100000US,,United States,,611430,Professional and management development training,,T,Establishments subject to federal income tax,2007,4829,5721095,,1862644,446242,32617,20.6,8.4
+0100000US,,United States,,611430,Professional and management development training,,Y,Establishments exempt from federal income tax,2007,933,1451270,1345864,421030,104725,9369,17.4,7.5
+0100000US,,United States,,6115,Technical and trade schools,,A,All establishments,2007,8124,10629854,,3441639,847349,105520,13.0,8.6
+0100000US,,United States,,6115,Technical and trade schools,,T,Establishments subject to federal income tax,2007,6280,8593393,,2780813,681987,82583,12.3,8.9
+0100000US,,United States,,6115,Technical and trade schools,,Y,Establishments exempt from federal income tax,2007,1844,2036461,1846519,660826,165362,22937,16.0,7.3
+0100000US,,United States,,61151,Technical and trade schools,,A,All establishments,2007,8124,10629854,,3441639,847349,105520,13.0,8.6
+0100000US,,United States,,61151,Technical and trade schools,,T,Establishments subject to federal income tax,2007,6280,8593393,,2780813,681987,82583,12.3,8.9
+0100000US,,United States,,61151,Technical and trade schools,,Y,Establishments exempt from federal income tax,2007,1844,2036461,1846519,660826,165362,22937,16.0,7.3
+0100000US,,United States,,611511,Cosmetology and barber schools,,A,All establishments,2007,1727,1200564,,389686,97611,15999,17.8,9.5
+0100000US,,United States,,611511,Cosmetology and barber schools,,T,Establishments subject to federal income tax,2007,1705,1183436,,383884,96381,15784,17.4,9.6
+0100000US,,United States,,611511,Cosmetology and barber schools,,Y,Establishments exempt from federal income tax,2007,22,17128,16859,5802,1230,215,41.1,2.0
+0100000US,,United States,,611512,Flight training,,A,All establishments,2007,983,2168991,,593669,146568,14493,12.3,10.4
+0100000US,,United States,,611512,Flight training,,T,Establishments subject to federal income tax,2007,963,2141503,,586129,144671,13829,12.3,10.5
+0100000US,,United States,,611512,Flight training,,Y,Establishments exempt from federal income tax,2007,20,27488,23567,7540,1897,664,11.0,1.3
+0100000US,,United States,,611513,Apprenticeship training,,A,All establishments,2007,1496,1247296,,392328,95791,14745,19.3,9.7
+0100000US,,United States,,611513,Apprenticeship training,,T,Establishments subject to federal income tax,2007,216,134104,,51293,11595,1445,25.8,15.4
+0100000US,,United States,,611513,Apprenticeship training,,Y,Establishments exempt from federal income tax,2007,1280,1113192,967594,341035,84196,13300,18.6,9.0
+0100000US,,United States,,611519,Other technical and trade schools,,A,All establishments,2007,3918,6013003,,2065956,507379,60283,11.0,7.6
+0100000US,,United States,,611519,Other technical and trade schools,,T,Establishments subject to federal income tax,2007,3396,5134350,,1759507,429340,51525,10.7,8.0
+0100000US,,United States,,611519,Other technical and trade schools,,Y,Establishments exempt from federal income tax,2007,522,878653,838499,306449,78039,8758,12.4,5.5
+0100000US,,United States,,6115191,Technical and trade schools ,,A,All establishments,2007,3519,5553821,,1897754,466596,55715,11.3,7.8
+0100000US,,United States,,6115191,Technical and trade schools ,,T,Establishments subject to federal income tax,2007,3011,4684151,,1594649,389342,47055,11.2,8.3
+0100000US,,United States,,6115191,Technical and trade schools ,,Y,Establishments exempt from federal income tax,2007,508,869670,830134,303105,77254,8660,11.9,5.5
+0100000US,,United States,,6115192,Computer repair training,,A,All establishments,2007,47,40913,,14430,3331,358,7.6,1.4
+0100000US,,United States,,6115192,Computer repair training,,T,Establishments subject to federal income tax,2007,39,,,,,,,
+0100000US,,United States,,6115192,Computer repair training,,Y,Establishments exempt from federal income tax,2007,8,,,,,,,
+0100000US,,United States,,6115193,Truck driving schools,,A,All establishments,2007,352,418269,,153772,37452,4210,7.0,5.2
+0100000US,,United States,,6115193,Truck driving schools,,T,Establishments subject to federal income tax,2007,346,,,,,,,
+0100000US,,United States,,6115193,Truck driving schools,,Y,Establishments exempt from federal income tax,2007,6,,,,,,,
+0100000US,,United States,,6116,Other schools and instruction,,A,All establishments,2007,38186,15520887,,4969673,1170218,304151,25.3,14.6
+0100000US,,United States,,6116,Other schools and instruction,,T,Establishments subject to federal income tax,2007,31435,11890506,,3686238,858632,235078,26.4,15.8
+0100000US,,United States,,6116,Other schools and instruction,,Y,Establishments exempt from federal income tax,2007,6751,3630381,3333252,1283435,311586,69073,21.6,10.5
+0100000US,,United States,,61161,Fine arts schools,,A,All establishments,2007,11478,3247593,,1040996,256656,74135,29.2,15.2
+0100000US,,United States,,61161,Fine arts schools,,T,Establishments subject to federal income tax,2007,9600,2216869,,666136,164724,53353,33.2,18.5
+0100000US,,United States,,61161,Fine arts schools,,Y,Establishments exempt from federal income tax,2007,1878,1030724,916391,374860,91932,20782,20.5,8.1
+0100000US,,United States,,611610,Fine arts schools,,A,All establishments,2007,11478,3247593,,1040996,256656,74135,29.2,15.2
+0100000US,,United States,,611610,Fine arts schools,,T,Establishments subject to federal income tax,2007,9600,2216869,,666136,164724,53353,33.2,18.5
+0100000US,,United States,,611610,Fine arts schools,,Y,Establishments exempt from federal income tax,2007,1878,1030724,916391,374860,91932,20782,20.5,8.1
+0100000US,,United States,,6116101,Dance schools (including children's and professionals'),,A,All establishments,2007,7878,1860292,,552466,138886,46696,32.2,19.1
+0100000US,,United States,,6116101,Dance schools (including children's and professionals'),,T,Establishments subject to federal income tax,2007,7361,1662106,,482918,121257,42534,33.9,20.2
+0100000US,,United States,,6116101,Dance schools (including children's and professionals'),,Y,Establishments exempt from federal income tax,2007,517,198186,190818,69548,17629,4162,18.2,10.2
+0100000US,,United States,,6116102,"Art, drama, and music schools",,A,All establishments,2007,3600,1387301,,488530,117770,27439,25.1,10.0
+0100000US,,United States,,6116102,"Art, drama, and music schools",,T,Establishments subject to federal income tax,2007,2239,554763,,183218,43467,10819,31.2,13.6
+0100000US,,United States,,6116102,"Art, drama, and music schools",,Y,Establishments exempt from federal income tax,2007,1361,832538,725573,305312,74303,16620,21.0,7.7
+0100000US,,United States,,61162,Sports and recreation instruction,,A,All establishments,2007,12292,3689682,,1181507,275825,80085,30.7,16.0
+0100000US,,United States,,61162,Sports and recreation instruction,,T,Establishments subject to federal income tax,2007,10707,3154876,,1008910,233833,68538,31.6,16.8
+0100000US,,United States,,61162,Sports and recreation instruction,,Y,Establishments exempt from federal income tax,2007,1585,534806,491083,172597,41992,11547,25.5,11.4
+0100000US,,United States,,611620,Sports and recreation instruction,,A,All establishments,2007,12292,3689682,,1181507,275825,80085,30.7,16.0
+0100000US,,United States,,611620,Sports and recreation instruction,,T,Establishments subject to federal income tax,2007,10707,3154876,,1008910,233833,68538,31.6,16.8
+0100000US,,United States,,611620,Sports and recreation instruction,,Y,Establishments exempt from federal income tax,2007,1585,534806,491083,172597,41992,11547,25.5,11.4
+0100000US,,United States,,61163,Language schools,,A,All establishments,2007,1334,857957,,291746,69934,18052,24.2,18.2
+0100000US,,United States,,61163,Language schools,,T,Establishments subject to federal income tax,2007,889,669917,,208150,50695,11131,25.5,19.3
+0100000US,,United States,,61163,Language schools,,Y,Establishments exempt from federal income tax,2007,445,188040,180446,83596,19239,6921,19.6,14.5
+0100000US,,United States,,611630,Language schools,,A,All establishments,2007,1334,857957,,291746,69934,18052,24.2,18.2
+0100000US,,United States,,611630,Language schools,,T,Establishments subject to federal income tax,2007,889,669917,,208150,50695,11131,25.5,19.3
+0100000US,,United States,,611630,Language schools,,Y,Establishments exempt from federal income tax,2007,445,188040,180446,83596,19239,6921,19.6,14.5
+0100000US,,United States,,61169,All other schools and instruction,,A,All establishments,2007,13082,7725655,,2455424,567803,131879,21.1,13.2
+0100000US,,United States,,61169,All other schools and instruction,,T,Establishments subject to federal income tax,2007,10239,5848844,,1803042,409380,102056,21.1,13.9
+0100000US,,United States,,61169,All other schools and instruction,,Y,Establishments exempt from federal income tax,2007,2843,1876811,1745332,652382,158423,29823,21.3,11.2
+0100000US,,United States,,611691,Exam preparation and tutoring,,A,All establishments,2007,7192,3514570,,1252718,295650,89174,21.6,16.2
+0100000US,,United States,,611691,Exam preparation and tutoring,,T,Establishments subject to federal income tax,2007,5676,2867625,,959557,223899,72215,20.6,17.8
+0100000US,,United States,,611691,Exam preparation and tutoring,,Y,Establishments exempt from federal income tax,2007,1516,646945,603440,293161,71751,16959,25.8,9.4
+0100000US,,United States,,611692,Automobile driving schools,,A,All establishments,2007,2261,638052,,238935,52722,13619,25.5,17.0
+0100000US,,United States,,611692,Automobile driving schools,,T,Establishments subject to federal income tax,2007,2194,612453,,227412,49983,13119,26.3,17.4
+0100000US,,United States,,611692,Automobile driving schools,,Y,Establishments exempt from federal income tax,2007,67,25599,24625,11523,2739,500,7.2,8.9
+0100000US,,United States,,611699,All other miscellaneous schools and instruction,,A,All establishments,2007,3629,3573033,,963771,219431,29086,19.9,9.6
+0100000US,,United States,,611699,All other miscellaneous schools and instruction,,T,Establishments subject to federal income tax,2007,2369,2368766,,616073,135498,16722,20.3,8.4
+0100000US,,United States,,611699,All other miscellaneous schools and instruction,,Y,Establishments exempt from federal income tax,2007,1260,1204267,1117267,347698,83933,12364,19.2,12.1
+0100000US,,United States,,6117,Educational support services,,A,All establishments,2007,6725,8792787,,2505115,596890,65293,14.1,7.1
+0100000US,,United States,,6117,Educational support services,,T,Establishments subject to federal income tax,2007,4816,3534506,,1217824,288908,35318,21.0,11.0
+0100000US,,United States,,6117,Educational support services,,Y,Establishments exempt from federal income tax,2007,1909,5258281,5044746,1287291,307982,29975,9.5,4.5
+0100000US,,United States,,61171,Educational support services,,A,All establishments,2007,6725,8792787,,2505115,596890,65293,14.1,7.1
+0100000US,,United States,,61171,Educational support services,,T,Establishments subject to federal income tax,2007,4816,3534506,,1217824,288908,35318,21.0,11.0
+0100000US,,United States,,61171,Educational support services,,Y,Establishments exempt from federal income tax,2007,1909,5258281,5044746,1287291,307982,29975,9.5,4.5
+0100000US,,United States,,611710,Educational support services,,A,All establishments,2007,6725,8792787,,2505115,596890,65293,14.1,7.1
+0100000US,,United States,,611710,Educational support services,,T,Establishments subject to federal income tax,2007,4816,3534506,,1217824,288908,35318,21.0,11.0
+0100000US,,United States,,611710,Educational support services,,Y,Establishments exempt from federal income tax,2007,1909,5258281,5044746,1287291,307982,29975,9.5,4.5
+0100000US,,United States,,6117101,Educational support services ,,A,All establishments,2007,5328,5885412,,1612756,383656,43241,17.2,8.0
+0100000US,,United States,,6117101,Educational support services ,,T,Establishments subject to federal income tax,2007,3610,2486765,,854167,201620,23175,21.9,10.4
+0100000US,,United States,,6117101,Educational support services ,,Y,Establishments exempt from federal income tax,2007,1718,3398647,3229866,758589,182036,20066,13.7,6.2
+0100000US,,United States,,6117102,Educational test development and evaluation services,,A,All establishments,2007,1397,2907375,,892359,213234,22052,7.9,5.2
+0100000US,,United States,,6117102,Educational test development and evaluation services,,T,Establishments subject to federal income tax,2007,1206,1047741,,363657,87288,12143,18.8,12.4
+0100000US,,United States,,6117102,Educational test development and evaluation services,,Y,Establishments exempt from federal income tax,2007,191,1859634,1814880,528702,125946,9909,1.8,1.2
