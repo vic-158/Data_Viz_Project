@@ -161,14 +161,14 @@ def slope(data,
 
         if kind == 'ordinal':
 
-            yPos_L = df[[cols[i]]].rank(ascending=False).applymap(
+            yPos_L = df[[cols[i]]].rank(ascending=True).applymap(
                 lambda el: round(el + 0.1))
-            yPos_R = df[[cols[i + 1]]].rank(ascending=False).applymap(
+            yPos_R = df[[cols[i + 1]]].rank(ascending=True).applymap(
                 lambda el: round(el + 0.1))
             yMark_L = df.groupby(cols[i])[cols[i]].mean().dropna()
             yMark_R = df.groupby(cols[i + 1])[cols[i + 1]].mean().dropna()
-            yMark_L.sort(ascending=False)
-            yMark_R.sort(ascending=False)
+            yMark_L.sort(ascending=True)
+            yMark_R.sort(ascending=True)
             #print yMark_L
 
             labelsL = df.groupby(yPos_L[cols[i]].values)['__label__'].agg(
