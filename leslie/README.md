@@ -1,15 +1,5 @@
-# Development Requirements
+#Project 1 
 
-* Use Pandas to clean and format your data set(s)
+We planned to look at the FAFSA data grants by number of applicants, state, and school to find out how who was applied for aid and who actually received it. The approach that we were taking initially was too broad due to the incongruency of data we were able to find, and we needed to be more granular and asking a specific question given our approach. 
 
-* Create a Jupyter Notebook describing the **data exploration and cleanup** process
-
-* Create a Jupyter Notebook illustrating the **final data analysis**
-
-* Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data)
-
-* Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
-
-* Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
-
-* Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
+Instead, our team shifted our focus and examined position on the rankings from US News and World Report to see if there is a correlation with the local economy which was defined by the following characteristics: household income, per capita income, population, and poverty level. 
