@@ -3,6 +3,7 @@
 * Brendan focused on aggregating the Census API data and creating the line plots to vizualize change over time.
 * Victor originally focused on integrating the FAFSA data with the ranking data, which mid-way was abandoned, as it did not work towards the main question. At which point, the focus was shifted to creating box-plots to vizualize the change in each parameter across both groups.
 * Sirui worked on the google maps API integration to vizualize the data geographically.
+-See [Heat_Map_income_change.ipynb](Heat_Map_income_change.ipynb) and [ipynb.py](/ipynb.py)
 
 In order to determine the link between economic impacts and changes in college rank, we compared the 10 universities that moved up the most in the rankings between 2009-2015 and the 10 universities the moved down in the rankings the most between 2009 - 2015.
 
