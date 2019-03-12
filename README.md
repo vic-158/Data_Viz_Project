@@ -1,7 +1,7 @@
 #### While answering the overall question regarding the economic impacts of changes in college ranking, we divided the work as follows:
-* Leslie focused on visualizing the change in the overall rankings and also cleaning the data for the changes in rank as well as putting together slides for the presentation.
-* Brendan focused on aggregating the Census API data and creating the line plots to vizualize change over time.
-* Victor originally focused on integrating the FAFSA data with the ranking data, which mid-way was abandoned, as it did not work towards the main question. At which point, the focus was shifted to creating box-plots to vizualize the change in each parameter across both groups.
+* Leslie focused on visualizing the change in the overall rankings via slope plot [vizualization](/leslie/visualization_attempts.ipynb) as well as putting together slides for the presentation [google slides](https://docs.google.com/presentation/d/1_abWmZ51fvvmwf-RyMZB94qquXp7m7XXi8HEdsx6gmY).
+* Brendan focused on aggregating the Census API data and creating the plots to vizualize change over time. [Census Data](brendan/Data_Viz_Project(Brendan).ipynb)
+* Victor originally focused on integrating the FAFSA data with the ranking data [csv_builder](victor/Data_Viz_Proj_DatabySchool_CSVCreator.ipynb) and [data aggregation](/victor/Data_Viz_Project_Data_Munging_FAFSA_bySchool.ipynb), which mid-way was abandoned, as it did not work towards the main question. At which point, the focus was shifted to creating box-plots in collaboration with Brendan to vizualize the change in each parameter across both groups and polishing the slides. [Graph building](victor/Data_Viz_Project_Census_Data_County.ipynb)
 * Sirui worked on the google maps API integration to vizualize the data geographically.
 -See [Heat_Map_income_change.ipynb](Heat_Map_income_change.ipynb) and [ipynb.py](/ipynb.py)
 
